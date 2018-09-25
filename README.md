@@ -2,9 +2,9 @@
 c'est la livraison1 du module 1: concepts objets élémentaires du programme de formation 10000 codeurs
 
 
-	************************************
-*****  	Description de l'application:   	*****
-	************************************
+	
+ 	Description de l'application:   
+	
 « Rexam »  est une application web et mobile qui permet aux élèves en classe d’examen de consulter leurs résultats à la fin d’année grâce à leurs Matricule. Après avoir saisi le numéro matricule les informations suivantes s’affiche :
 1.	Nom et prénom de l’élève. Ex : Youssoufou Alioum
 2.	Date de naissance.  Ex : 19-05-1990
